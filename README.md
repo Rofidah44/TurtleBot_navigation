@@ -1,5 +1,5 @@
 # TurtleBot_navigation
-### first to make a navigation in the turtlebut you should follow these steps
+### first to make a navigation in the turtlebot you should follow these steps
 1- in a terminal write this $ export TURTLEBOT3_MODEL=burger 
 $ roslaunch turtlebot3_gazebo turtlebot3_world.launch
 this is will open the gazebo
